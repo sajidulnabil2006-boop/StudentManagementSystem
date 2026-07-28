@@ -1,0 +1,30 @@
+.root{
+    -fx-background-color: navy;
+}
+.search-button{
+    -fx-background-color: Normal gray;
+    -fx-text-fill: white;
+}
+.search-button:pressed{
+    -fx-background-color: Darker gray;
+}
+.add-button{
+    -fx-background-color: Light green;
+}
+.add-button:pressed{
+    -fx-background-color: Darker green;
+}
+.upload-button{
+    -fx-background-color: Light blue;
+    -fx-text-fill: white;
+}
+.upload-button:pressed{
+    -fx-background-color: Darker blue;
+}
+.delete-button{
+    -fx-background-color: Light red;
+    -fx-text-fill: white;
+}
+.delete-button:pressed{
+    -fx-background-color: Darker red;
+}
